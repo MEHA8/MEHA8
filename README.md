@@ -17,7 +17,8 @@
 - 🚀 Open-source projects that integrate web and IoT technologies
 
 ## 📫 How to Reach Me:
-- LINKEDIN: 
+- LINKEDIN: https://www.linkedin.com/in/meha-thiruniraiselvan
+- MAIL: mehathiruniraiselvan@gmail.com
 
 ## ⚡ Fun Fact:
 - 💡 I love pushing the limits of technology in **web development** and **IoT**!
