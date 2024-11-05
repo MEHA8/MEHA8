@@ -11,7 +11,7 @@
 - 🎨 Frontend design improvements with React
 - ☁️ **IoT applications** and **cloud computing**, building on my NPTEL certification
 
-## 💞️ Collaboration Interests:
+## 🤝 Collaboration Interests:
 - 🌐 **Full stack web** development projects
 - 🤖 Innovative **IoT** applications
 - 🚀 Open-source projects that integrate web and IoT technologies
